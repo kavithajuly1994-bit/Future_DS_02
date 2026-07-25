@@ -14,17 +14,11 @@
 📈 KPI Analysis
 
 👥 Total Customers
-
 ❌ Churned Customers
-
 ✅ Active Customers
-
 📉 Churn Rate (%)
-
 📈 Retention Rate (%)
-
 💰 Total Revenue
-
 ⏳ Overall Average Tenure (Months)
 
 🎛️ Slicer Implementation
